@@ -1,0 +1,10 @@
+D:\Users\Veysel\source\repos\ygs hesap\ygs hesap\bin\Debug\ygs hesap.exe.config
+D:\Users\Veysel\source\repos\ygs hesap\ygs hesap\bin\Debug\ygs hesap.exe
+D:\Users\Veysel\source\repos\ygs hesap\ygs hesap\bin\Debug\ygs hesap.pdb
+D:\Users\Veysel\source\repos\ygs hesap\ygs hesap\obj\Debug\ygs hesap.csprojResolveAssemblyReference.cache
+D:\Users\Veysel\source\repos\ygs hesap\ygs hesap\obj\Debug\ygs_hesap.Form1.resources
+D:\Users\Veysel\source\repos\ygs hesap\ygs hesap\obj\Debug\ygs_hesap.Properties.Resources.resources
+D:\Users\Veysel\source\repos\ygs hesap\ygs hesap\obj\Debug\ygs hesap.csproj.GenerateResource.cache
+D:\Users\Veysel\source\repos\ygs hesap\ygs hesap\obj\Debug\ygs hesap.csproj.CoreCompileInputs.cache
+D:\Users\Veysel\source\repos\ygs hesap\ygs hesap\obj\Debug\ygs hesap.exe
+D:\Users\Veysel\source\repos\ygs hesap\ygs hesap\obj\Debug\ygs hesap.pdb

@@ -1,0 +1,19 @@
+D:\Users\Veysel\source\repos\Mod AAlma\Mod AAlma\bin\Debug\Mod AAlma.exe.config
+D:\Users\Veysel\source\repos\Mod AAlma\Mod AAlma\bin\Debug\Mod AAlma.exe
+D:\Users\Veysel\source\repos\Mod AAlma\Mod AAlma\bin\Debug\Mod AAlma.pdb
+D:\Users\Veysel\source\repos\Mod AAlma\Mod AAlma\obj\Debug\Mod_AAlma.Form1.resources
+D:\Users\Veysel\source\repos\Mod AAlma\Mod AAlma\obj\Debug\Mod_AAlma.Properties.Resources.resources
+D:\Users\Veysel\source\repos\Mod AAlma\Mod AAlma\obj\Debug\Mod AAlma.csproj.GenerateResource.cache
+D:\Users\Veysel\source\repos\Mod AAlma\Mod AAlma\obj\Debug\Mod AAlma.csproj.CoreCompileInputs.cache
+D:\Users\Veysel\source\repos\Mod AAlma\Mod AAlma\obj\Debug\Mod AAlma.exe
+D:\Users\Veysel\source\repos\Mod AAlma\Mod AAlma\obj\Debug\Mod AAlma.pdb
+G:\Users\Veysel\source\repos\Mod AAlma\Mod AAlma\bin\Debug\Mod AAlma.exe.config
+G:\Users\Veysel\source\repos\Mod AAlma\Mod AAlma\bin\Debug\Mod AAlma.exe
+G:\Users\Veysel\source\repos\Mod AAlma\Mod AAlma\bin\Debug\Mod AAlma.pdb
+G:\Users\Veysel\source\repos\Mod AAlma\Mod AAlma\obj\Debug\Mod AAlma.csprojAssemblyReference.cache
+G:\Users\Veysel\source\repos\Mod AAlma\Mod AAlma\obj\Debug\Mod_AAlma.Form1.resources
+G:\Users\Veysel\source\repos\Mod AAlma\Mod AAlma\obj\Debug\Mod_AAlma.Properties.Resources.resources
+G:\Users\Veysel\source\repos\Mod AAlma\Mod AAlma\obj\Debug\Mod AAlma.csproj.GenerateResource.cache
+G:\Users\Veysel\source\repos\Mod AAlma\Mod AAlma\obj\Debug\Mod AAlma.csproj.CoreCompileInputs.cache
+G:\Users\Veysel\source\repos\Mod AAlma\Mod AAlma\obj\Debug\Mod AAlma.exe
+G:\Users\Veysel\source\repos\Mod AAlma\Mod AAlma\obj\Debug\Mod AAlma.pdb

@@ -1,0 +1,10 @@
+D:\Users\Veysel\source\repos\UssuAl\UssuAl\bin\Debug\UssuAl.exe.config
+D:\Users\Veysel\source\repos\UssuAl\UssuAl\bin\Debug\UssuAl.exe
+D:\Users\Veysel\source\repos\UssuAl\UssuAl\bin\Debug\UssuAl.pdb
+D:\Users\Veysel\source\repos\UssuAl\UssuAl\obj\Debug\UssuAl.csprojResolveAssemblyReference.cache
+D:\Users\Veysel\source\repos\UssuAl\UssuAl\obj\Debug\UssuAl.Form1.resources
+D:\Users\Veysel\source\repos\UssuAl\UssuAl\obj\Debug\UssuAl.Properties.Resources.resources
+D:\Users\Veysel\source\repos\UssuAl\UssuAl\obj\Debug\UssuAl.csproj.GenerateResource.cache
+D:\Users\Veysel\source\repos\UssuAl\UssuAl\obj\Debug\UssuAl.csproj.CoreCompileInputs.cache
+D:\Users\Veysel\source\repos\UssuAl\UssuAl\obj\Debug\UssuAl.exe
+D:\Users\Veysel\source\repos\UssuAl\UssuAl\obj\Debug\UssuAl.pdb
